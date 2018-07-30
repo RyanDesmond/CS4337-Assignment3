@@ -1,0 +1,62 @@
+10984: PID
+dateMon Jul 30 02:02:22 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:23 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:24 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:25 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:26 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:27 CDT 2018
+ls -l junk.txtuname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:28 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:29 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:30 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+dateMon Jul 30 02:02:31 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+uname -aLinux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+10984: PID
+dateMon Jul 30 02:02:19 CDT 2018
+ls -l junk.txttouch junk.txtdateMon Jul 30 02:02:21 CDT 2018
+ls -l junk.txttouch junk.txtdateMon Jul 30 02:02:23 CDT 2018
+ls -l junk.txttouch junk.txtdateMon Jul 30 02:02:26 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+touch junk.txtdateMon Jul 30 02:02:28 CDT 2018
+ls -l junk.txttouch junk.txtdateMon Jul 30 02:02:30 CDT 2018
+ls -l junk.txttouch junk.txtdateMon Jul 30 02:02:32 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+touch junk.txtdateMon Jul 30 02:02:34 CDT 2018
+ls -l junk.txttouch junk.txtdateMon Jul 30 02:02:36 CDT 2018
+ls -l junk.txttouch junk.txtdateMon Jul 30 02:02:38 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+touch junk.txt10984: PID
+dateMon Jul 30 02:02:20 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+rm -f junk.txtdateMon Jul 30 02:02:23 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+rm -f junk.txtdateMon Jul 30 02:02:26 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+rm -f junk.txtdateMon Jul 30 02:02:29 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+rm -f junk.txtdateMon Jul 30 02:02:32 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+rm -f junk.txtdateMon Jul 30 02:02:35 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+rm -f junk.txtdateMon Jul 30 02:02:38 CDT 2018
+ls -l junk.txt-rw-------+ 1 rmd140130 sn 0 Jul 30 02:02 junk.txt
+rm -f junk.txtdateMon Jul 30 02:02:41 CDT 2018
+ls -l junk.txtrm -f junk.txtdateMon Jul 30 02:02:44 CDT 2018
+ls -l junk.txtrm -f junk.txt
